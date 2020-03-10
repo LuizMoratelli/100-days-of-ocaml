@@ -4,7 +4,7 @@
 
 ### Day 1: 2020-03-07
 
-**Today's Progress**: Started the reading of 1st chapter of `Real World OCaml`.
+**Today's Progress**: > 1st chapter of `Real World OCaml`.
 
 **Thoughts:** Difficulties with some syntax and differences between standard libraries.
 
@@ -13,7 +13,9 @@
 
 ### Day 2: 2020-03-08
 
-**Today's Progress**: Finished the reading of 1st and started the 2nd chapter of `Real World OCaml`.
+**Today's Progress**: 
+- < 1st chapter of `Real World OCaml`
+- \> 2nd chapter of `Real World OCaml`.
 
 **Thoughts:** Thinking about how to transform the content into a didactic digital content of ReasonML.
 
@@ -23,7 +25,7 @@
 ### Day 3: 2020-03-09
 
 **Today's Progress**:
-- Continued the reading of 2nd chapter of `Real World OCaml`.
+- | 2nd chapter of `Real World OCaml`.
 - A look at PPX Deriving.
 - I found some ReasonML content in Portuguese.
 
