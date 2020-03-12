@@ -1,6 +1,6 @@
 # 100-days-of-ocaml
 
-## Log of Round 1 of #100DaysOfOCaml - Started 2020-03-7
+## Log of Round 1 of #100DaysOfOCaml - Started 2020-03-07
 
 ### Day 1: 2020-03-07
 
@@ -52,3 +52,19 @@
 * [PPX(0)](https://dev.realworldocaml.org/ppx.html)
 * [PPX(1)](http://ocamllabs.io/doc/ppx.html)
 * [PPX(2)](https://tarides.com/blog/2019-05-09-an-introduction-to-ocaml-ppx-ecosystem)
+
+### Day 5: 2020-03-11
+
+**Today's Progress**:
+- 🔜 3rd chapter of `Real World OCaml`.
+- Seen about database drivers.
+
+**Thoughts:** Thinking about create a CLI TODO list connected with MongoDB.
+
+**References:**
+* [EBOOK](http://dev.realworldocaml.org/)
+* [MongoDB-Driver](https://github.com/jmininger/OCaml-MongoDB-driver-tutorial)
+* [Dune](https://github.com/ocaml/dune)
+* [Esy](https://esy.sh/)
+
+
