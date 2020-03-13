@@ -67,4 +67,29 @@
 * [Dune](https://github.com/ocaml/dune)
 * [Esy](https://esy.sh/)
 
+### Day 6: 2020-03-12
+
+**Today's Progress**:
+- 🔜 3rd chapter of `Real World OCaml`.
+- Do some tests on online compilers.
+
+**Thoughts:** It's cool to test and practice sometimes, I need to do more of it. Looking for a way to print OCaml's types.
+
+```OCaml
+(*List*)
+let list = ["Oi"; "Mundo"; "Cruel"];;
+
+(*Function*)
+let lengths l = List.map String.length l;;
+
+let print_item item = Printf.printf "%i\n" item;;
+List.map (print_item) (lengths list);;
+
+(*Anonymous Function*)
+List.map (fun (item: int) -> Printf.printf "%i\n" item) (lengths list);; 
+```
+
+**References:**
+* [EBOOK](http://dev.realworldocaml.org/)
+* [Online Compiler](https://www.tutorialspoint.com/compile_ocaml_online.php)
 
