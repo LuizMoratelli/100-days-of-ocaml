@@ -92,4 +92,8 @@ List.map (fun (item: int) -> Printf.printf "%i\n" item) (lengths list);;
 **References:**
 * [EBOOK](http://dev.realworldocaml.org/)
 * [Online Compiler](https://www.tutorialspoint.com/compile_ocaml_online.php)
+* [List](https://caml.inria.fr/pub/docs/manual-ocaml/libref/List.html)
+* [List.Map](https://riptutorial.com/ocaml/example/9125/list-map)
+* [Anonymous Function](https://www.cs.cornell.edu/courses/cs3110/2014sp/recitations/3/rec03.html)
+* [Exercism](https://exercism.io/tracks/ocaml)
 
