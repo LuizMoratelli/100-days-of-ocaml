@@ -97,3 +97,11 @@ List.map (fun (item: int) -> Printf.printf "%i\n" item) (lengths list);;
 * [Anonymous Function](https://www.cs.cornell.edu/courses/cs3110/2014sp/recitations/3/rec03.html)
 * [Exercism](https://exercism.io/tracks/ocaml)
 
+### Day 7: 2020-03-13
+
+**Today's Progress**:
+- ✅ 3rd chapter of `Real World OCaml`.
+- 🔜 4th chapter of `Real World OCaml`.
+
+**References:**
+* [EBOOK](http://dev.realworldocaml.org/)
