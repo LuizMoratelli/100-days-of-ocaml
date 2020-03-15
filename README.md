@@ -105,3 +105,11 @@ List.map (fun (item: int) -> Printf.printf "%i\n" item) (lengths list);;
 
 **References:**
 * [EBOOK](http://dev.realworldocaml.org/)
+
+
+### Day 8: 2020-03-14
+
+**Today's Progress**:
+- A lot of unsuccessful attempts to compile a file with opam and dune.
+
+* [BoilerPlate](https://github.com/EduardoRFS/reason-native-boilerplate)
