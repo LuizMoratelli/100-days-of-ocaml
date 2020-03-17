@@ -43,10 +43,10 @@ let (valor, texto) = tuplal;
 Js.log(valor);
 
 /* Funcões */
-let saudacao = () => "Oi, ";
-let funcao2 = (greeting, name) => Js.log(greeting ++ name);
+let cumprimento = () => "Oi, ";
+let saudacao = (greeting, name) => Js.log(greeting ++ name);
 
-funcao2(funcao1(), "Luiz");
+saudacao(cumprimento(), "Luiz");
 
 /* Blocos*/
 /* Ultima operacao eh retornada by default*/
