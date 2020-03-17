@@ -28,7 +28,7 @@ Js.Log(texto ++ " divertido");
 Js.log(numero + 4);
 Js.log(decimal +. 0.5);
 
-/* Records (Semelhante a objetos no JS) mas precisam de type explicito */
+/* Records */
 type pessoa = {nome: String, idade: int};
 let pessoa = {nome: "Luiz", idade: 21};
 Js.log(pessoa.nome);
