@@ -119,7 +119,7 @@ List.map (fun (item: int) -> Printf.printf "%i\n" item) (lengths list);;
 
 **Today's Progress**:
 - Still trying to run the project with `esy x File.ml` with no success.
-- Summary of the first ReasonML lesson created
+- [Summary of the first ReasonML lesson created](https://github.com/LuizMoratelli/100-days-of-ocaml/blob/master/lesson-1.re)
 
 ```shell
 esy build --install -v -v
@@ -129,7 +129,7 @@ esy build --install -v -v
 
 **Today's Progress**:
 - Created my own repo to save the OCaml's files.
-- Fix some issues with the summary of the first ReasonML lesson
+- [Fix some issues with the summary of the first ReasonML lesson](https://github.com/LuizMoratelli/100-days-of-ocaml/blob/master/lesson-1.re)
 
 **References:**
 * [BoilerPlate](https://github.com/LuizMoratelli/learn-ocaml)
