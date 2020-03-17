@@ -112,6 +112,7 @@ List.map (fun (item: int) -> Printf.printf "%i\n" item) (lengths list);;
 **Today's Progress**:
 - A lot of unsuccessful attempts to compile a file with opam and dune.
 
+**References:**
 * [BoilerPlate](https://github.com/EduardoRFS/reason-native-boilerplate)
 
 ### Day 9: 2020-03-15
@@ -128,4 +129,5 @@ esy build --install -v -v
 **Today's Progress**:
 - Created my own repo to save the OCaml's files.
 
+**References:**
 * [BoilerPlate](https://github.com/LuizMoratelli/learn-ocaml)
