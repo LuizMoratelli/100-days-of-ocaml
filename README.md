@@ -133,3 +133,21 @@ esy build --install -v -v
 
 **References:**
 * [BoilerPlate](https://github.com/LuizMoratelli/learn-ocaml)
+
+### Day 11: 2020-03-17
+
+**Today's Progress**:
+- [Fixed minor issues with learn-ocaml repository](https://github.com/LuizMoratelli/learn-ocaml)
+- 🔜 Recordings of the first reasonml video lesson started
+
+### Day 12: 2020-03-18
+
+**Today's Progress**:
+- 🔜 Recordings of the first reasonml video lesson continued
+- [minor fixes in the first ReasonML lesson](https://github.com/LuizMoratelli/100-days-of-ocaml/blob/master/lesson-1.re)
+
+### Day 13: 2020-03-19
+
+**Today's Progress**:
+- ✅ All pieces of video recorded
+- 🔜 Editing of the first reasonml video class started
